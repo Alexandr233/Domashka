@@ -1,0 +1,15 @@
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\bin\Debug\net6.0\zadanie34.exe
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\bin\Debug\net6.0\zadanie34.deps.json
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\bin\Debug\net6.0\zadanie34.runtimeconfig.json
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\bin\Debug\net6.0\zadanie34.dll
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\bin\Debug\net6.0\zadanie34.pdb
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.AssemblyInfo.cs
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.dll
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\refint\zadanie34.dll
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.pdb
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\zadanie34.genruntimeconfig.cache
+C:\Users\GIGABYTE\OneDrive\Рабочий стол\domashkaq\zadanie34\obj\Debug\net6.0\ref\zadanie34.dll
